@@ -15,6 +15,11 @@ There are couple of Jupyter notebooks available here
 The data set is available in the student-mat.csv file 
 ### Results
 The finding are elaborated in the following [article](https://medium.com/@sanjayaben/can-the-teachers-predict-how-their-students-would-perform-369314f0a457)
+Key findings 
+1. Continuous/interim assessments seem to standout as strong indicators of the final grade achieved by students.
+2. The guardians who are educated has more influence on students while staying with parents seems to help them perform better. Also the urban setup with facilities like home internet also seems to positively impact performance.
+3. The absences do not demonstrate a negative correlation towards the final grade as expected. It could be that the secondary school students cope up with absences better compared to primary students.
+4. Behavioral attributes are complex to analyze and may need to be looked at in the context of the culture that exists within the sample. i.e. the conclusions may not be true in all cultural contexts.
 ### Future work
 We can alternatively try to use a classification model which would predict if the final grade is going to be "good" or "bad". For this we need to first transform the G3 into a categorical label, which we can then use to train the model.  This would be a better use of the data set in it's current form.
 ### Licensing, Authors, Acknowledgements
